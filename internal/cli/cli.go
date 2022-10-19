@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Mihai22125/sitemap/pkg/sitemap"
-	"github.com/Mihai22125/sitemap/pkg/workerpool"
+	"github.com/Mihai22125/oronoxyl/pkg/sitemap"
+	"github.com/Mihai22125/oronoxyl/pkg/workerpool"
 )
 
 func CLI(args []string) int {

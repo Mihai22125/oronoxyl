@@ -4,7 +4,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/Mihai22125/sitemap/internal/cli"
+	"github.com/Mihai22125/oronoxyl/internal/cli"
 )
 
 func main() {

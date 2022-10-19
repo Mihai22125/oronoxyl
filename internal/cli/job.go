@@ -3,8 +3,8 @@ package cli
 import (
 	"context"
 
-	"github.com/Mihai22125/sitemap/pkg/sitemap"
-	"github.com/Mihai22125/sitemap/pkg/workerpool"
+	"github.com/Mihai22125/oronoxyl/pkg/sitemap"
+	"github.com/Mihai22125/oronoxyl/pkg/workerpool"
 )
 
 type PageJob struct {
