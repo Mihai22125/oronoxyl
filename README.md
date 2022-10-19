@@ -59,7 +59,7 @@ oronoxyl -help
   Options:
     -max-depth   (int)                    max depth of url navigation recursion (default 3)
     -output-file (string)                 output file path (default "./temp.xml")
-    -parallel    (int)                    number of parallel workers to navigate through site (Default 3) (default 3)
+    -parallel    (int)                    number of parallel workers to navigate through site (Default 3)
     -url         (string)                 site url for sitemap generation
     -verbose     (bool)                   display detailed processing information (default true)
     -help        (bool)                   output usage information
